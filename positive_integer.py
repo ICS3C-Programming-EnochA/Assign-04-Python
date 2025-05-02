@@ -6,6 +6,7 @@
 
 def main():
 
+    print ("Hello and welcome to Enoch math problem")
     user_num_as_string = input("Enter a positive integer = ")
 
     try:
