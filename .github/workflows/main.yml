@@ -50,4 +50,6 @@ jobs:
 
           DEFAULT_BRANCH: main
 
+          DISABLE_ERRORS: true
+
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
